@@ -1,7 +1,12 @@
 📦 Vendor Performance Data Analytics
+
+---
+
 End-to-End Business Analytics Project | Python • SQL • Power BI
 
 A comprehensive end-to-end data analytics project focused on optimizing vendor relationships, inventory management, and maximizing gross profit.
+
+---
 
 📖 Overview
 
@@ -37,6 +42,8 @@ The business faced challenges in procurement optimization, vendor performance ev
     
     The raw data was cleaned, aggregated, and structured for analytical querying and reporting.
 
+https://github.com/VishalJaiswal-analyst/vendor_performance_analysis_python_sql_powerbi/blob/main/Vendor_Sales_Summary_final_table.csv
+
 ---
 
 🛠 Tools & Technologies
@@ -61,6 +68,8 @@ The business faced challenges in procurement optimization, vendor performance ev
     
     Interpreted results to generate actionable business recommendations
 
+https://github.com/VishalJaiswal-analyst/vendor_performance_analysis_python_sql_powerbi/blob/main/Exploratory_Data_Analysis.ipynb
+
 ---
 
 💡 Key Insights
@@ -82,6 +91,8 @@ Power BI Interactive Dashboard displaying sales, gross profit margin, vendor ran
 Final Data Report summarizing methodology, findings, and strategic recommendations
 
 Cleaned & Aggregated MySQL Schemas for reporting and analysis
+
+https://github.com/VishalJaiswal-analyst/vendor_performance_analysis_python_sql_powerbi/blob/main/dashboard_snapshot.png
 
 ---
 
