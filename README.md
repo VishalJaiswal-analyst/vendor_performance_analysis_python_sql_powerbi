@@ -146,6 +146,6 @@ Targeted marketing strategies for low-performing vendors
 
 Vishal Jaiswal
 
-LinkedIn: Add your LinkedIn link
+LinkedIn: www.linkedin.com/in/vishal-jaiswal-analyst
 
 Email: vishal.jaiswal.data@gmail.com
